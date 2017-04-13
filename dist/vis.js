@@ -28687,7 +28687,7 @@ return /******/ (function(modules) { // webpackBootstrap
     this.body.emitter.emit('timechange', {
       id: this.options.id,
       time: new Date(this.customTime.valueOf()),
-      event: util.elementsCensor(event)
+      event
     });
 
     event.stopPropagation();
@@ -28705,7 +28705,7 @@ return /******/ (function(modules) { // webpackBootstrap
     this.body.emitter.emit('timechanged', {
       id: this.options.id,
       time: new Date(this.customTime.valueOf()),
-      event: util.elementsCensor(event)
+      event
     });
 
     event.stopPropagation();
