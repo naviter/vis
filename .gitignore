@@ -1,5 +1,7 @@
 # vis.js files
 dist/
+examples/graph2d/5.html
+examples/graph2d/data.js
 
 # npm files
 node_modules
