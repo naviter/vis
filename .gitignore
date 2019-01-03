@@ -1,5 +1,5 @@
 # vis.js files
-dist/
+# dist/
 examples/graph2d/5.html
 examples/graph2d/data.js
 
